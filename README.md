@@ -6,6 +6,7 @@ The data used consituted of the following tables:
 **Fact Tables**
 - Payment
 - Rental
+
       **Dimension Tables**
 - Store
 - Film category
